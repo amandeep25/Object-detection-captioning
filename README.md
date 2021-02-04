@@ -22,8 +22,10 @@ Download from here: https://www.kaggle.com/ming666/flicker8k-dataset
 # VGG 16 Model 
 VGG 16 is a convolutional neural network model proposed by K. Simonyan and A. Zisserman from the University of Oxford in the paper “Very Deep Convolutional Networks for Large-Scale Image Recognition”. The model achieves 92.7% top-5 test accuracy in ImageNet, which is a dataset of over 14 million images belonging to 1000 classes.
  
-[Result - accuracy ]
-[ image data] 
+![This](https://github.com/amandeep25/Object-detection-captioning/blob/main/result.jpg)
+
+# The final predictions:
+![This](https://github.com/amandeep25/Object-detection-captioning/blob/main/result_image.jpg)
 
 
 
